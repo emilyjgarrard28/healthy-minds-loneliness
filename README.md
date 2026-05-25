@@ -11,6 +11,8 @@ My project examines how loneliness shapes mental health outcomes among U.S. coll
 # Data
 The Healthy Minds Network. A premier research organization, they use a population-level survey of college student mental health. Over 935,000 responses from students at more than 675 colleges and universities have been gathered. I requested the data online and received the datasets for the year 2024-2025 (84,735 respondents).
 
+Link to data: https://drive.google.com/file/d/1ds5qd1x1jbUJimTZFCPhM4TFfXNofNZr/view?usp=sharing
+
 # Key findings
 - 31.6% of emerging adults screen positive for depression (PHQ-9 ≥ 10)
 - 28.8% screen positive for anxiety (GAD-7 ≥ 10)
