@@ -1,0 +1,15 @@
+# Mac noise
+.DS_Store
+
+# Data files (restricted - do not commit)
+data/*.csv
+data/*.sav
+data/*.dta
+
+# Cleaned data output
+data/*_clean.csv
+
+# Python noise
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
