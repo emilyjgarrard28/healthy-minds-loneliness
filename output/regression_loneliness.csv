@@ -1,0 +1,19 @@
+predictor,coefficient,p_value
+sexual_orientation_Pansexual,0.669,0.0
+sexual_orientation_Questioning,0.643,0.0
+sexual_orientation_Gay,0.581,0.0
+sexual_orientation_Queer,0.58,0.0
+sexual_orientation_Bisexual,0.503,0.0
+sexual_orientation_Lesbian,0.417,0.0
+gender_Genderqueer,0.406,0.0
+gender_Trans,0.349,0.0003
+sexual_orientation_Asexual,0.345,0.0001
+gender_Nonbinary,0.322,0.0
+belong_total,-0.234,0.0
+gender_Self-described,0.21,0.4241
+gender_Man,-0.198,0.0
+age,-0.05,0.0
+stigma_self,0.045,0.0
+race_status_Racial minority,-0.045,0.0742
+sexual_orientation_Self-described,0.021,0.8692
+stigma_perceived,0.019,0.0
