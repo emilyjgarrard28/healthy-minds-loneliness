@@ -18,6 +18,7 @@ To replicate, download the file and place it at `data/HMS_2024-2025_PUBLIC_instc
 
 ## Repository Structure
 
+```
 healthy-minds-loneliness/
 ├── code/
 │   ├── 00_clean_data.ipynb
@@ -27,6 +28,7 @@ healthy-minds-loneliness/
 │   └── README.md         ← data access instructions; raw file not committed
 ├── output/               ← saved figures (PNG)
 └── README.md
+```
 
 ## Scripts
 
