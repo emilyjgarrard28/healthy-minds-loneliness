@@ -29,6 +29,7 @@ healthy-minds-loneliness/
 │   └── README.md         ← data access instructions; raw file not committed
 ├── output/               ← saved figures (PNG)
 ├── index.html            ← project website (served via GitHub Pages)
+├── paper.pdf             ← final paper
 └── README.md
 ```
 
