@@ -1,6 +1,8 @@
 # healthy-minds-loneliness
 QSS 20 final project on loneliness and mental health among emerging adults
 
+🌐 **[View the project website](https://emilyjgarrard28.github.io/healthy-minds-loneliness)**
+
 ## Overview
 This project examines how loneliness shapes mental health outcomes among U.S. college students using data from the Healthy Minds Study 2024-2025. I investigate how strongly depression (PHQ-9) and anxiety (GAD-7) co-occur with loneliness, whether these patterns differ by identity (sexual orientation, gender, race), and whether campus belonging and perceived stigma act as protective or risk factors. The analysis finds that sexual minority and gender minority students report substantially higher loneliness than their peers, that loneliness is the strongest independent predictor of both depression and anxiety, and that perceived stigma — but not campus belonging broadly — amplifies the loneliness-depression relationship.
 
@@ -27,6 +29,7 @@ healthy-minds-loneliness/
 ├── data/
 │   └── README.md         ← data access instructions; raw file not committed
 ├── output/               ← saved figures (PNG)
+├── index.html            ← project website (served via GitHub Pages)
 └── README.md
 ```
 
@@ -78,3 +81,14 @@ healthy-minds-loneliness/
 - Sexual minority students report nearly 1 full point higher loneliness than heterosexual peers (d = 0.47); racial differences are negligible (d = 0.05)
 - Loneliness independently predicts depression (β = 1.26) and anxiety (β = 1.09) after controlling for identity, belonging, stigma, and age
 - Perceived stigma significantly amplifies the loneliness-depression relationship; campus belonging reduces depression independently but does not buffer the loneliness pathway
+## Website
+
+The project website summarizes the research for a general audience and is live at:
+
+**[https://emilyjgarrard28.github.io/healthy-minds-loneliness](https://emilyjgarrard28.github.io/healthy-minds-loneliness)**
+
+It is served via GitHub Pages from `index.html` in the root of this repository.
+
+## Author
+
+Emily Garrard · Dartmouth College · Psychology '28 · emily.j.garrard.28@dartmouth.edu
