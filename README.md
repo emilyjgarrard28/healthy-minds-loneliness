@@ -2,6 +2,7 @@
 QSS 20 final project on loneliness and mental health among emerging adults
 
 🌐 **[View the project website](https://emilyjgarrard28.github.io/healthy-minds-loneliness)**
+📄 **[Read the paper](paper.pdf)**
 
 ## Overview
 This project examines how loneliness shapes mental health outcomes among U.S. college students using data from the Healthy Minds Study 2024-2025. I investigate how strongly depression (PHQ-9) and anxiety (GAD-7) co-occur with loneliness, whether these patterns differ by identity (sexual orientation, gender, race), and whether campus belonging and perceived stigma act as protective or risk factors. The analysis finds that sexual minority and gender minority students report substantially higher loneliness than their peers, that loneliness is the strongest independent predictor of both depression and anxiety, and that perceived stigma — but not campus belonging broadly — amplifies the loneliness-depression relationship.
