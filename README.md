@@ -5,7 +5,7 @@ QSS 20 final project on loneliness and mental health among emerging adults
 📄 **[Read the paper](paper.pdf)**
 
 ## Overview
-This project examines how loneliness shapes mental health outcomes among U.S. college students using data from the Healthy Minds Study 2024-2025. I investigate how strongly depression (PHQ-9) and anxiety (GAD-7) co-occur with loneliness, whether these patterns differ by identity (sexual orientation, gender, race), and whether campus belonging and perceived stigma act as protective or risk factors. The analysis finds that sexual minority and gender minority students report substantially higher loneliness than their peers, that loneliness is the strongest independent predictor of both depression and anxiety, and that perceived stigma — but not campus belonging broadly — amplifies the loneliness-depression relationship.
+This project examines how loneliness shapes mental health outcomes among U.S. college students using data from the Healthy Minds Study 2024-2025. I investigate how strongly depression (PHQ-9) and anxiety (GAD-7) co-occur with loneliness, whether these patterns differ by identity (sexual orientation, gender, race), and whether campus belonging and perceived stigma act as protective or risk factors. The analysis finds that sexual minority and gender minority students report substantially higher loneliness than their peers, that loneliness is the strongest independent predictor of both depression and anxiety, and that perceived stigma--but not campus belonging broadly--amplifies the loneliness-depression relationship.
 
 ## Research Questions
 1. How does loneliness relate to depressive and anxiety symptoms among emerging adults?
@@ -16,8 +16,6 @@ Data come from the [Healthy Minds Study 2024-2025](https://healthymindsnetwork.o
 
 The raw data file is not stored in this repository. Access has been shared with the instructor via Google Drive:
 [HMS 2024-25 dataset](https://drive.google.com/file/d/1ds5qd1x1jbUJimTZFCPhM4TFfXNofNZr/view?usp=sharing)
-
-To replicate, download the file and place it at `data/HMS_2024-2025_PUBLIC_instchars.csv`.
 
 ## Repository Structure
 
